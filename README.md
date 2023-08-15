@@ -1,6 +1,6 @@
 # INTRODUCTION
 
-This analysis will be centered around company's sales performance in the previous year having data referencing specific areas like: Segment, Months, Quarter, Products, Countries and the host of them. Also, this analysis is meant to help us delve into where need to pay more attention to for development and how the company will make informed decision in the cominy years. However, this analysis would provide us with Key Perfomance Index(KPI's) on the company's data and answer ceertain questions which will enable us have a productive expedition next year.
+This analysis will be centered around company's sales performance in the previous year having data referencing specific areas like: Segment, Months, Quarter, Products, Countries and the host of them. Also, this analysis is meant to help us delve into where we need to pay more attention to for development and how the company will make informed decision in the coming years. However, this analysis would provide us with Key Perfomance Index(KPI's) on the company's data and answer ceertain questions which will enable us have a productive expedition next year.
 ___
 # 7 KEY QUESTIONS THAT NEEDS TO BE ANSWERED
 - Total Revenue generated from all sales in Region by Quarter.
@@ -24,14 +24,14 @@ We would be looking at these areas;
 
 **
 From the Above, we calculated the Total Profit and Total Sales by applyimg the **`=SUM`** Functions on the respective column. 
-The Average of the Sales and Profit is calculate by **`=AVERAGE`** Functions on the respective column.
-However, the Average Profit Margin is Caluclate by **`=AVERAGE(U2:U9995/R2:R9995)*100`** ie the average of profit divded by sales multiply by 100.
+The Average of the Sales and Profit is calculated by **`=AVERAGE`** Functions on the respective column.
+However, the Average Profit Margin is Caluclated by **`=AVERAGE(U2:U9995/R2:R9995)*100`** ie the average of profit divded by sales multiply by 100.
 
 ___
 
 # SOLUTION TO THE QUESTIONS ASKED
 
-This Solution will be provided using pivot table and Chart for better Visualization
+These Solution will be provided using pivot tables and Charts for better Visualization
 
 **Solution 1**
 
@@ -45,7 +45,8 @@ From the Above table and Chart, it is Observed that the highest total sales in R
 
 ![pivot sales 2](https://github.com/mjbrown-prog/Final-Excel-Project/assets/64136357/41cb01f6-0ddf-4c2b-b867-67c8d4d3880f)
 
-![Sales 2](https://github.com/mjbrown-prog/Final-Excel-Project/assets/64136357/a5b2069a-1136-491d-b5b3-2abe99281ce1)
+![profit](https://github.com/mjbrown-prog/Final-Excel-Project/assets/64136357/701001e7-2d58-4bfc-b9aa-9576d2aa4769)
+
 
 
 From the Above table and Chart, it is observed that the product category with the highest profit is **Technology** by year **2016**.
@@ -54,7 +55,7 @@ From the Above table and Chart, it is observed that the product category with th
 
 ![pivot sales 3](https://github.com/mjbrown-prog/Final-Excel-Project/assets/64136357/8d519877-913b-46b8-9b30-4b35a8541592)
 
-![Sales 3](https://github.com/mjbrown-prog/Final-Excel-Project/assets/64136357/bb3ada57-ee46-4424-a224-3d9a05c2607b)
+![top101](https://github.com/mjbrown-prog/Final-Excel-Project/assets/64136357/53a5629c-71a5-485f-b829-41a7716008d5)
 
 
 From the above table and chart, it is observed that the top 10 states with highest sales is **Florida** having the Highest Sales.
@@ -72,7 +73,8 @@ From the above table and chart, it is observed that the total profit generated w
 
 ![pivot sales 5](https://github.com/mjbrown-prog/Final-Excel-Project/assets/64136357/d9296994-2541-4e78-984e-e86bd8af3c81)
 
-![Sales 5](https://github.com/mjbrown-prog/Final-Excel-Project/assets/64136357/13af110b-e9c9-413a-adc2-3503bbdcce21)
+![top5](https://github.com/mjbrown-prog/Final-Excel-Project/assets/64136357/96c49f5e-c197-4aa4-864b-787392d0422e)
+
 
 From the above table and chart, it is observed that the top 5 best selling product has **Canon imageCLASS 2200 Advanced Copier** ranking no 1.
 
@@ -101,7 +103,7 @@ This analysis shows where we had the highest sales by region in Each Quartar, th
 - Their should be More Advert to show other products which are lacking in sales.
 - The states with the lowest sales should be visited which i suggest the do more campaign and Ads for visibility.
 - The need to go back to the drawing board to know what happened as the trend across revenue sales was reduced as the year goes by, so it will be advised to go back to year 2014 to know how the revenue sales was generated and inestigate to know where losses are made in other not to reoccur in the coming year.
-- The should run more campaign and adverts in the Central Region in order to generate more profit
+- The should run more campaign and adverts in the Central Region in order to generate more profit.
 
 
 
